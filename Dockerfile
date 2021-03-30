@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.6.8-stretch
 MAINTAINER Victor Developer Back-end
 
 ENV PYTHONUNBUFFERED 1
